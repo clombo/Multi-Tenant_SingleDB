@@ -1,0 +1,13 @@
+/.idea/.idea.MTA_SingleDBExamlpe/.idea/.gitignore
+/.idea/.idea.MTA_SingleDBExamlpe/.idea/.name
+/.idea/.idea.MTA_SingleDBExamlpe/.idea/indexLayout.xml
+/.idea/.idea.MTA_SingleDBExamlpe/.idea/vcs.xml
+
+/MTA.API/bin/*
+/MTA.API/obj/*
+
+/MTA.Data/bin/*
+/MTA.Data/obj/*
+
+/MTA.Domain/bin/*
+/MTA.Domain/obj/*
